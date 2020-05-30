@@ -25,6 +25,7 @@ public class Word_converter {
 		System.out.printf("The Capital of %s is %s.\n",country,capital);
 		
 		System.out.println("\nThank you for using this program!!");
+		in.close();
 		
 
 	
