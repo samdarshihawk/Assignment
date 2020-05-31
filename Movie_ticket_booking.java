@@ -99,7 +99,7 @@ public class Movie_ticket {
 			}
 			
 			System.out.println("Your schedule is: "+schedule);
-	        System.out.printf("The total price you need to pay is: $%.2f\n",total_price);
+	                System.out.printf("The total price you need to pay is: $%.2f\n",total_price);
 			
 			
 			
