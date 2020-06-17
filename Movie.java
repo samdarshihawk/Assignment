@@ -1,3 +1,23 @@
+/* 
+
+Comp248  Java Assignment 3 
+
+Write the implementation of the class Movie as per the specifications that follow.
+An object of type Movie stores information about the name, schedule and price of a movie
+The class Movie contains:
+• Private instance variables of type string to store the name and schedule of the movie and
+type double to store the price.
+• Three constructors:
+o One that takes 3 arguments and sets all of the corresponding instance variables.
+o A default constructor, which will set three attributes name, schedule and price
+to“Frozen II”, “2:00-5:00pm” and 17.99.
+o A copy constructor which sets the instance variables to be the same as the passed
+Movie object.
+• Public methods to get (accessor) and set (mutator) each instance variable individually.
+
+*/
+
+
 import java.util.Scanner;
 
 public class Movie {
